@@ -4,7 +4,7 @@
 
 ### I live in Moldova, in the city of Rybnitsa
 
-#### Хочу стать успешным Фронтенд разработчиком
+# My purpose is to become a Frontend Developer
 
 # Фронт Ван Лав
 
