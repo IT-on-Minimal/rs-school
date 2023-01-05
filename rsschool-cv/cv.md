@@ -1,11 +1,8 @@
-# My name is Denis
+# Denis Veremeenko
 
-## I am 27 years old
+## +373(778)29-018
 
-### I live in Moldova, in the city of Rybnitsa
+### At the moment I do not have any experience in the field of IT, I am only developing in this direction
 
-# My purpose is to become a Frontend Developer
+## I plan to acquire skills in: HTML, CSS, JS, Eng, Deut and much more
 
-# English
-
-# Coding
