@@ -6,6 +6,6 @@
 
 # My purpose is to become a Frontend Developer
 
-# Фронт Ван Лав
+# English
 
 # Спорт Ван Лав
