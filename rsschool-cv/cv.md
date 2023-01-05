@@ -1,8 +1,8 @@
-# Меня зовут Денис
+# My name is Denis
 
-## Мне 27 лет
+## I am 27 years old
 
-### Я живу в Молдове, в городе Рыбница
+### I live in Moldova, in the city of Rybnitsa
 
 #### Хочу стать успешным Фронтенд разработчиком
 
